@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hakan</h1>
-<h3 align="center">Development, Programming and Coding...</h3>
+### Hi there 👋
 
 - 📫 How to reach me **hakan@meral.md**
 
