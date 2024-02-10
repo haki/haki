@@ -6,10 +6,15 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ✓ Java / Kotlin (Android)
+
 ✓ PHP (Laravel)
+
 ✓ DBMS (MySQL)
+
 ✓ C# (Unity)
+
 ✓ C++ (Unreal Engine)
+
 ✓ Python (Simple projects)
 
 <h3 align="left">Connect with me:</h3>
