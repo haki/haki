@@ -2,7 +2,7 @@
 
 ## 🎮 About Me
 
-Hello! I'm Hakan Meral, a software developer. I'm proficient in Kotlin, Java, PHP, and C#, and I particularly enjoy working with Android, Laravel, and Unity. I love incorporating my passion for game development into my work.
+Hello! I'm Hakan Meral, a software developer. I am developing myself in C#, Dart, Python, PHP, Kotlin and I especially enjoy working with Unity, Flutter, Android, Laravel and Django. I love to incorporate my passion for game development into my work.
 
 ## 🚀 My Projects
 
