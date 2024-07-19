@@ -8,7 +8,7 @@ Hello! I'm Hakan Meral, a software developer. I am developing myself in C#, Dart
 
 - [Drift Reign](https://store.steampowered.com/app/2368220/Drift_Reign/): Ultimate drifting simulator (Unity 3D, Photon).
 - [Novelify](https://play.google.com/store/apps/details?id=de.belengroup.novelify): Story Reading App (Flutter, Django).
-- 
+  
 ## 🛠 Technologies I Use
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
